@@ -42,3 +42,5 @@ For all of these states, an independent function can be defined to execute. Wind
 
 
 You can also use this library for debouncing numbers. For example, it can refrain from displaying a fluctuating numerical value on the screen and only show it once the fluctuation has ceased and stabilized.
+
+"This library has been developed by IranDynamics and, as it is anticipated within the Lion Electronics group, Lion Electronics has placed it in their GitHub repository for archival purposes."
